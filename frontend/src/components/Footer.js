@@ -14,9 +14,9 @@ const Footer = () => {
       </div>
 
       <div className="d-flex gap-3">
-        <a href="#" className="text-white text-decoration-none">IN</a>
-        <a href="#" className="text-white text-decoration-none">TW</a>
-        <a href="#" className="text-white text-decoration-none">IG</a>
+        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white text-decoration-none">IN</a>
+        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-white text-decoration-none">TW</a>
+        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-white text-decoration-none">IG</a>
       </div>
     </footer>
   );
